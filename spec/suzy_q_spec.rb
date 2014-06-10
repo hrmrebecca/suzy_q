@@ -1,3 +1,3 @@
 describe SuzyQ do
-  it { should be_a Module }
+  it { is_expected.to be_a Module }
 end
