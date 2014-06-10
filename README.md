@@ -20,6 +20,8 @@ Or install it yourself as:
 
 TODO: Write usage instructions here
 
+rake suzy_q_engine:install:migrations
+
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/suzy_q/fork )
